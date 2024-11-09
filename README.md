@@ -9,3 +9,5 @@ Tesing Github link
 
 
 <a href="placeholder.com">NOT Opens in new tab</a>
+
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
